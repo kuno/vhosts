@@ -1,0 +1,3 @@
+###RULES###
+1, Any webapp project should with port that start with 8000.
+2, Any nodejs project should with port that start with 9000.
