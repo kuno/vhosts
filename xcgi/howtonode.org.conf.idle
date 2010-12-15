@@ -1,4 +1,4 @@
 ADDR=127.3.1.7
 LANGUAGE=javascript
 FLAMEWORK=none
-ROOT_DIR=/home/kuno/portal/docs/javascript/howtonode.org
+ROOT=/home/kuno/portal/docs/javascript/howtonode.org
